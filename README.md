@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/94bc15e5-a1dd-4117-8c1f-404b0c64aad4" />
 # 🚗 CarRentalApp MVC3 — ASP.NET MVC + SQL Server
 
 A simple **Car Rental Web Application** built with **ASP.NET MVC3**, **Entity Framework**, and **SQL Server**.  
